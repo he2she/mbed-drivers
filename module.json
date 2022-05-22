@@ -30,7 +30,7 @@
     "mbed"
   ],
   "dependencies": {
-    "mbed-hal": "ARMmbed/mbed-hal#v1.3.1",
+    "mbed-hal": "he2she/mbed-hal#v1.3.1",
     "cmsis-core": "ARMmbed/cmsis-core#v1.2.0",
     "ualloc": "ARMmbed/ualloc#v1.3.0",
     "minar": "ARMmbed/minar#v1.3.0",
