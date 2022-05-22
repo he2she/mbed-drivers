@@ -30,13 +30,13 @@
     "mbed"
   ],
   "dependencies": {
-    "mbed-hal": "^1.0.0",
-    "cmsis-core": "^1.0.0",
-    "ualloc": "^1.0.0",
-    "minar": "^1.0.0",
-    "core-util": "^1.0.0",
-    "compiler-polyfill": "^1.1.0",
-    "greentea-client": ">=0.1.4,<2.0.0"
+    "mbed-hal": "ARMmbed/mbed-hal#v1.3.0",
+    "cmsis-core": "ARMmbed/cmsis-core#v1.2.0",
+    "ualloc": "ARMmbed/ualloc#v1.3.0",
+    "minar": "ARMmbed/minar#v1.3.0",
+    "core-util": "ARMmbed/core-util#v1.8.0",
+    "compiler-polyfill": "ARMmbed/compiler-polyfill#v1.3.0",
+    "greentea-client": "ARMmbed/greentea-client#v1.1.0"
   },
   "testDependencies": {
     "unity": "^2.0.0"
