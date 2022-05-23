@@ -32,7 +32,7 @@
   "dependencies": {
     "mbed-hal": "he2she/mbed-hal#v1.3.1",
     "cmsis-core": "he2she/cmsis-core#v1.2.1",
-    "ualloc": "ARMmbed/ualloc#v1.3.0",
+    "ualloc": "he2she/ualloc#v1.3.0",
     "minar": "he2she/minar#v1.3.0",
     "core-util": "ARMmbed/core-util#v1.8.0",
     "compiler-polyfill": "ARMmbed/compiler-polyfill#v1.3.0",
